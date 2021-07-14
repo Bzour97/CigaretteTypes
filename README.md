@@ -1,1 +1,1 @@
-# CigaretteTypes
+# Cigarettes
