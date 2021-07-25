@@ -1,6 +1,9 @@
+
 var name = prompt("What is your name")
 
 alert("hey, Smoking is harmful to health " + name )
+
+function inputUser(){
 
 var favCigarette = prompt("What is your fav cigarette? ,,, Please choose one of these : Marlboro , Winston , Kent")
 
@@ -52,3 +55,13 @@ document.write(
 else{
   alert('Go to hell smoker')
 }
+}
+
+function RateUs()
+{
+  var rate = prompt(" Rate US ")
+  alert(' Thanks ')
+}
+
+inputUser()
+RateUs()
