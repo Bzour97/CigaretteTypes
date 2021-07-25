@@ -1,0 +1,49 @@
+body{
+  background-color: rgb(124, 124, 124);
+  margin: 0px;
+}
+
+p{
+   margin: 20px;
+}
+
+header{
+  background-color: rgb(255, 123, 0);
+  height: 70px;
+  padding: 70px;
+}
+
+footer{
+   background-color: rgb(255, 123, 0);
+   height: 15px;
+   padding: 60px;
+}
+
+div{
+   display: inline-block;
+   margin: 30px;
+   padding: 30px;
+   padding-left: 90px;
+}
+
+h4{
+  background-color: rgb(124, 124, 124);  
+}
+
+section{
+  margin: 30px;
+  padding: 10px;
+}
+
+
+#cigarette{
+  display: inline-block;
+  padding-left: 675px;
+   
+}
+
+span{
+  background-color: rgb(255, 123, 0);
+  margin: 30px;
+ padding: 15px;
+}
